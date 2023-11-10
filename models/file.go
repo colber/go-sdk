@@ -1,4 +1,7 @@
 package models
+import (
+	"time"
+)
 
 type (
 	File struct {
